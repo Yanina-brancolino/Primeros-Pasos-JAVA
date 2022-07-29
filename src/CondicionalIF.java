@@ -3,8 +3,8 @@ public class CondicionalIF {
         
         int camila = 16;
         int leonarda = 26;
-        int vitto, atenea;
 
+        int vitto, atenea;
         vitto = 3;
         atenea = 7;
 
@@ -35,4 +35,4 @@ public class CondicionalIF {
 }
 
 // La sintaxis del IF ELSE, es totalmente igual a la de JavaScript. 
-// Dejo dos ejemplos de como anidar condicionales if.
+// Dejo dos ejemplos de como anidar condicionales if; Y dos ejemplos de como declarar variables.
